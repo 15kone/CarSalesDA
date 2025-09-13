@@ -17,6 +17,7 @@ Install the main dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+```
 ````
 
 ## Usage
