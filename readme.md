@@ -1,4 +1,3 @@
-````markdown
 # CarSalesDA
 
 CarSalesDA is a simple data analysis project exploring a car sales dataset.  
@@ -18,7 +17,6 @@ Install the main dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
-````
 
 ## Usage
 
