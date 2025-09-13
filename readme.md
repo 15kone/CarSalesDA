@@ -39,5 +39,3 @@ Run the notebook cells step by step to reproduce the analysis.
 ## License
 
 MIT License – see [LICENSE](LICENSE) for details.
-
-```
